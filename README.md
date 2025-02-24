@@ -1,6 +1,11 @@
 # TechnicalDis
-This is the Heading of Technical Discc
+Hi! My name is Yashswi Sharma
 
-## Second Heading
+## About Me 
+* Currently Persuing Btech Cse from Chitkara University , Rajpura
+* Tech Stack:- HTML, CSS, JS
 
-this is the heading second block
+
+
+## gist
+Here IS my Github Profile [Check this Out](https://github.com/yashswi23/)
